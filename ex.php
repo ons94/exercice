@@ -1,6 +1,6 @@
 <?php 
 
-echo'Distance entre 2 points '
+echo'Distance entre 2 points';
 
 function getDistance ($latitude1,$longitude1,$latitude2,$longitude2)
 {$earthradius=6371; 
